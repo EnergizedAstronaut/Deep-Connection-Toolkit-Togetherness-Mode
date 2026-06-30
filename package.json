@@ -1,0 +1,19 @@
+{
+  "name": "connection-toolkit",
+  "version": "1.0.0",
+  "description": "Intentional questions for deeper relationships and self-reflection",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "14.2.35",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "tailwindcss": "3.3.4",
+    "postcss": "8.4.32",
+    "autoprefixer": "10.4.16"
+  }
+}
