@@ -1,8 +1,8 @@
 import './globals.css';
 
 export const metadata = {
-  title: 'Deep Connection Toolkit',
-  description: 'Discover how deeply you connect with someone special',
+  title: 'Connection Toolkit',
+  description: 'Intentional questions for deeper relationships',
 };
 
 export default function RootLayout({ children }) {
